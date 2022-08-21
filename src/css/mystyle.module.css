@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    padding: 0%;
+    font-size: 15px;
+    width: 100%;
+    min-width: 390px;
+    overflow-x: hidden ;
+}
+
+h1{
+    font-family: times;
+    font-size: 3em;
+    color :black;
+    text-align: center;
+}
+
+main {
+    background-color: white;
+    padding: 5%;
+    width: 100%;
+}
